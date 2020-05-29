@@ -1,0 +1,29 @@
+.centro
+{
+  font-family: verdana;
+  font-size: 15px;
+  text-align: center;
+  background-color: #fca700;
+  height: 20px;
+  opacity: 50%;
+  font-weight: 700;
+}
+.descripcion
+{
+  font-family: cursive;
+  font-size: 12px;
+  font-weight: 800;
+  background-color: rgb(177, 1, 123);
+  opacity: 50%,
+}
+
+.valor
+{
+  font-family: cursive;
+  font-weight: 400;
+}
+body
+{
+ background: url(estudiantes.jpg);
+ background-size: 100vw 100vh;
+}

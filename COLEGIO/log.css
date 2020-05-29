@@ -1,0 +1,125 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body
+{
+   background: url(../COLEGIO/mar.jpg) ;
+   -webkit-background-size :cover;
+   background-size: cover;
+   background-attachment: fixed;
+   font-family: sans-serif;
+}
+
+.contenedor
+{
+  position: relative;
+   background: #b6a995;
+   width: 100%;
+   max-width: 580px;
+   margin: 40px auto;
+   color: rgb(0, 26, 139);
+   border-radius: 5px;
+   padding: 40px;
+}
+.contenedor .toggle
+{
+  position: absolute;
+  top: 7px;
+  right: 7px;
+  width: 100px;
+  height: 38px;
+  font-size: 12px;
+  line-height: 25px;
+  text-align: center;
+  border-top: 2px solid #850158;
+  border-bottom: 2px solid #c90179;
+  transition: all .5s ease;
+  cursor:pointer;*
+}
+.contenedor .toggle span
+{
+  letter-spacing: 1px;
+}
+.contenedor .toggle:hover
+{
+  border-top: 2px solid #00116b;
+  border-bottom: 2px solid #4200af;
+}
+.contenedor h2
+{
+  margin: 0 0 28px0;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1;
+}
+.contenedor input[type = "text"],
+.contenedor input[type = "password"],
+.contenedor input[type = "email"]
+{
+    outline: none;
+    background: #21c0dd;
+    display: block;
+    width: 100%;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 2px;
+    border-bottom: 4px solid #d7440d;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    margin: 0 0 28px 0;
+}
+.contenedor input[type = "text"]: focus,
+.contenedor input[type = "password"]: focus,
+.contenedor input[type = "email"]: focus
+{
+  border-bottom: 4px solid #aa008e;
+}
+.contenedor input[type = "submit"]
+{
+  background: #9f0039;
+  color: #ffffff;
+  border: none;
+  width: 100%;
+  padding: 10px 0;
+  font-weight: normal;
+  font-family: Roboto;
+  letter-spacing: 1px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all .5 ease;
+}
+.contenedor input[type = "submit"]:hover
+{
+  background: #9d0092;
+}
+.contenedor .reset-password
+{
+  background: #9e0047;
+  color: #ffffff;
+  width: 100%;
+  padding:15px 0;
+  text-align: center;
+  border-bottom-right-radius: 5px;
+}
+.contenedor .reset-password a
+{
+  color: #ffffff;
+  text-decoration: none;
+  font-style: 16px;
+}
+
+.contenedor .formulario
+{
+  padding: 40px;
+  display: none;
+}
+.contenedor .formulario:nth-child(2)
+{
+  display: block;
+}

@@ -1,0 +1,33 @@
+body
+{
+  background: url(elegante.jpg);
+  background-size: 100vw 100vh;
+}
+
+.letra
+{
+  font-weight: 400;
+  font-family: cursive;
+  font-size: 25px;
+  font-style: italic;
+  color: #ffffff;
+}
+.tabla
+{
+  opacity: 50%;
+  background-color: #c1004b;
+}
+.pintor
+{
+  border-radius: 15%;
+  border-left-color: #0015d1;
+  opacity: 100%;
+}
+.or
+{
+  font-size: 19px;
+  font-weight: 400;
+  font-family: cursive;
+  font-style: oblique;
+  color: rgb(255, 255, 255);
+}

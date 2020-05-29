@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>MATRICULA</title>
+    <link rel = "stylesheet" href = "estilomatri.css">
+  </head>
+  <body>
+
+    <center>
+        <font size = "4" face = "cursive" color = "rgb(238, 57, 0)">
+      <h2><p>Bienvenido(a) al Proceso de Matriculas 2021.</p></h2></font>
+<font size = "3" face = "cursive" color = "#8c00af">
+      <h3>
+        Lea bien TODAS las instrucciones antes de iniciar la inscripción para conocer todo aquello que necesitará a lo largo del proceso.
+        Es de gran importancia que tenga claros esta información:
+        Antes de empezar debe tener en cuenta que necesitará una cuenta de correo electrónico personal del Titular. Esta cuenta de correo es de gran importancia ya que será el único medio de comunicación que el sistema empleará para informarle sobre el progreso de su matrícula, por tal motivo, NO puede ser una cuenta “temporal”.
+  </h3>
+</font>
+    </center>
+    <center>
+    <div id = "header">
+      <div id = "cuerpo">
+        <div id = "formulario">
+          <form name = "formRegistro" action="procesar.php" method="post">
+            <table border = "0">
+              <tr>
+                <td class ="centro" colspan="2">Registro Alumno</td>
+              </tr>
+
+              <tr>
+                <td class = "descripcion">MONTO DE PAGO</td>
+                <td class = "valor">
+                  <input type ="text" name = "txtRUC" maxlength="11" size = "20" placeholder="Ingresa un valor valido"/>
+                </td>
+              </tr>
+
+              <tr>
+                <td class = "descripcion">NOMBRE</td>
+                <td class = "valor">
+                  <input type ="text" name = "txtNombre" maxlength="50" size = "20" placeholder="Completa este espacio"/>
+                </td>
+              </tr>
+
+              <tr>
+                <td class = "descripcion">APELLIDO PATENRO</td>
+                <td class = "valor">
+                <input type ="text" name = "txtApePat" maxlength="50" size = "20" placeholder="Completa este campo"/>
+                </td>
+              </tr>
+              <tr>
+                <td class = "descripcion">APELLDIO MATERNO</td>
+                <td class = "valor">
+                  <input type ="text" name = "txtApeMat" maxlength="50" size = "20" placeholder="Completa este campo"/>
+                </td>
+              </tr>
+
+              <tr>
+                <td class = "descripcion">SEXO:</td>
+                <td class = "valor">
+                  <input type="radio" name = "opSexo" value = "m"/>Masculino
+                  <input type="radio" name = "opSexo" value = "f"/>Femenino
+                </td>
+              </tr>
+
+              <tr>
+                <td class = "descripcion">INSCRIPCIÓN POR</td>
+                <td class = "valor">
+                  <input type="checkbox" name = "opEstudio" value="1"/>Traslado<br/>
+                  <input type="checkbox" name = "opEstudio" value="2"/>Matricula<br/>
+                </td>
+              </tr>
+
+              <tr>
+                <td class = "descripcion">CIUDAD DE NACIMIENTO</td>
+                <td class = "valor">
+                  <select name="cboCiudad">
+                  <option value="1">MOQUEGUA</option>
+                  <option value="2">LA LIBERTAD</option>
+                  <option value="3">APURIMAC</option>
+                  </select>
+                </td>
+              </tr>
+
+              <tr>
+                <td class = "descripcion">MOTIVO</td>
+                <td class = "valor">
+                  <input type = "textarea" name = "Motivo" maxlength="50" size = "20" placeholder="Completa este campo"/>
+                </td>
+              </tr>
+
+              <tr>
+                <td class = "descripcion">DNI ALUMNO</td>
+                <td class = "valor">
+                  <input type="text" name = "NUMERO DNI" maxlength="8" size = "20" placeholder="Completa este campo"/>
+                </td>
+              </tr>
+
+              <tr>
+                <td class = "descripcion">CORREO ELECTRONICO</td>
+                <td class = "valor">
+                  <input type="email" name = "CORREO" maxlength="8" size = "20" placeholder="Completa este campo"/>
+                </td>
+              </tr>
+              <tr>
+                <td class ="centro"  colspan="2">
+                  <input type = "submit" name = "btnRegistrar" value = "Registrar Alumno">
+                </td>
+              </tr>
+            </table>
+          </form>
+        </center>
+		
+<center>
+<A href="iniciopg.html">&#60 REGRESAR &#62</A>
+</center>
+		
+  </body>
+</html>
