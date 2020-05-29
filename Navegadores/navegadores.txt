@@ -1,0 +1,173 @@
+<li> Marcado rápido (Speed Dial): Opera fue el primer navegador que añadió en la página de inicio miniaturas de sitios seleccionados.
+<li> Marcadores y gestores de estos: gestion de marcadores(bookmarks); eliminacion de duplicados; orden alfabetico.
+<li> Navegación con los gestos del ratón: permite navegar y/o ejecutar funciones del navegador utilizando movimientos del mouse.
+<li> Navegación entre pestañas: permite mediante el uso de Ctrl + Tab o el botón central del mouse, desplazarse entre las diferentes 
+pestañas abiertas en la sesión, pudiendo ver una vista en miniatura del contenido de la misma.
+<li> Navegación por sesiones: permite guardar la sesión de navegación actual y volver a retomarla. Así, el usuario puede cerrar el navegador, 
+y abrirlo más tarde teniendo exactamente las mismas páginas abiertas e historial por pestaña que cuando lo cerró. Se pueden guardar múltiples sesiones.
+<li> Navegación por voz: sólo en inglés y para Windows 2000/XP/Vista.
+<li> Notas: permite almacenar pequeños textos asociados a la página que se esté visitando.
+<li> Paneles laterales: permite la visualización de los marcadores; correo; notas; IRC-Chat; Enlaces.
+<li> Papelera de pestañas cerradas: almacena todas las pestañas cerradas en la sesión, pudiéndose restaurar o vaciar su contenido a decisión del usuario.
+<li> Protección anti-fraude: permite detectar sitios inseguros y phishing.
+<li> Recordar el contenido de las páginas: permite hacer búsquedas de palabras contenidas dentro de las páginas visitadas del historial.
+<li> Soporte de estándares: Soporta CSS 2.1, XHTML 1.1, HTML 4.01, WML 2.0, ECMAScript, DOM 2 y SVG 1.1 tiny.
+<li> Soporte de RSS y Atom (sindicación de contenido): Cuando un sitio web ofrece este servicio, Opera muestra un icono en la barra de dirección para 
+suscribirse y comprobar automáticamente el nuevo contenido del mismo.
+<li> Opera Link: sincroniza los contenidos del navegador (marcadores, Barra Personal, Marcado Rápido) con otros dispositivos o desde otros ordenadores 
+con navegador Opera. Esto permite guardar los marcadores y demás información propia en un servidor, de forma que se puede acceder con Opera desde 
+cualquier otro dispositivo que lo soporte. requiere la creación de una cuenta de usuario en Opera.
+<li> Opera Turbo: opción que mejora apreciablemente la velocidad en conexiones lentas, aunque las imágenes pierden calidad.28 Opera Turbo envía las
+páginas al servidor de Opera para comprimirlas antes de que sean descargadas por el usuario.
+<li> Opera Unite: era un servicio que permitia al usuario compartir de una forma muy facil contenidos y servicios desde su computadora. 
+Retirado desde la version 12.
+<li> Vista previa en miniatura: al pasar el cursor sobre una pestaña, aparece la vista previa.
+<li> Widgets: pequeñas aplicaciones desarrolladas por usuarios que se ejecutaban en procesos separados y funcionaban independientemente del navegador. 
+Retirado desde la version 12.
+</ul>
+</blockquote>
+<a herf="#Principal"><p align="right">Regresar</p></a>
+
+<!--Safari-->
+<a name="Safari">
+<font color="blue"><h3>3.- SAFARI</h3></font>
+<blockquote>
+<p align="Justify"> Safari es un navegador web de código cerrado desarrollado por Apple Inc. Está disponible para Mac OS X, iOS 
+(el sistema usado por el iPhone, el iPod Touch y el iPad) y Microsoft Windows(sin soporte desde el 2012).</p>
+<p align="Justify"> Incluye navegación por pestañas, corrector ortográfico, búsqueda progresiva, vista del historial en Cover Flow, 
+administrador de descargas y un sistema de búsqueda integrado. </p>
+<b><u>Caracteristicas</u></b><br>
+<ul>
+<li>Caracteristicas internas
+<p align="Justify"> Está escrito sobre el framework WebKit, que incluye a WebCore, el motor de renderizado, y JavaScriptCore, el intérprete de JavaScript. 
+Por su parte, WebKit (el motor de renderizado del navegador) está basado en el motor KHTML, creado por el proyecto KDE para su navegador Konqueror. 
+Como resultado de esto, el motor interno de Safari es software libre y es liberado bajo los términos de la licencia LGPL. Las mejoras al código de KHTML 
+por parte de Apple son incorporadas al código de KDE rápidamente.</p>
+</ul>
+</blockquote>
+<a herf="#Principal"><p align="right">Regresar</p></a>
+
+<!--Internet explorer-->
+<a name="Explorer">
+<font color="blue"><acronym title="Navegador con mejora en la programacion"><h3>4.- INTERNET EXPLORER</h3><acronym></font>
+<blockquote>
+<p align="Justify">Internet Explorer(anteriormente Microsoft Internet Explorer) es conocido comúnmente como IE, es un navegador web desarrollado 
+por Microsoft para el sistema operativo Microsoft Windows desde 1995. Es el el navegador web más utilizado desde 1999, con un pico máximo de 
+cuota de utilización del 95% durante el 2002 y 2003. SIn embargo dicha cuota de mercado ha disminuido paulatinamente debido a una renovada competencia 
+por parte de otros navegadores, logrando aproximadamente entre el 30% y el 54% en 2012, y aun menos, cuando logra ser superado por Google Chrome, 
+dependiendo de la fuente de medicion global.  La situacion empeora cada vez mas en el 2012 cuando tuvo un bajon del 53% al 33% con respecto al 2011 
+y en 2013 hasta el momento su cuota sigue en descenso con un 27% de la cuota hasta el momento. 1 2 3 4</p>
+<p align="Justify"> Su version mas reciente es Internet Explorer 11, que esta disponible para Windows 7 SP1 S, Windows 8 y Windows 8.1. 
+Los sistemas operativos Windows Vista, Windows XP, Windows Server 2003 y anteriores no estan soportados. 
+5 7 Esta nueva version de Internet Explorer incorpora considerables avances en la interpretacion de estandares web respecto a sus precursores, c
+omo el soporte para CSS3, SVG, HTML5 (Incluyendo las etiquetas<audio>,<video> y <canvas>), el formato de archivo tipografico web "WOFF", 
+además de incluir mejoras de rendimiento como la aceleración por hardware para el proceso de renderizado de páginas web y un nuevo motor de JavaScript 
+denominado Chakra.8</p>
+<p align="Justify"> También se han producido compilaciones de Internet Explorer (algunas actualmente descontinuadas) para otros sistemas operativos, 
+incluyendo Internet Explorer Mobile (Windows CE y Windows Mobile), Internet Explorer para Mac (Mac OS 7.01 a 10) e Internet Explorer para UNIX 
+(Solaris, HP-UX) y Xbox 360.</p>
+<b><u>Caracteristicas</u></b><br>
+<ul>
+<li><b>Soporte de estandares</b>
+<p align="Justify"> Comparaciones de los motores de renderizado.
+<p align="Justify"> Internet Explorer, utilizando el motor de diseño Trident, Soporta HTML 4.01, CSS 1.0, CSS 2.1, XML 1.0 y DOM nivel 1, 
+con brechas de implementación menores. El soporte para gran parte del borrador de estándar CSS3, así como HTML5 está en el proyectado para 
+Internet Explorer 9.</p>
+<p align="Justify"> Es totalmente compatible con XSLT 1.0, así como un dialecto de XSLT obsoleto creado por Microsoft al que se refiere a menudo 
+como WD-XSL. Está proyectado soporte para XSLT 2.0 para versiones futuras de Internet Explorer, blogeros de Microsoft han indicado que el 
+desarrollo está en marcha, pero las fechas no se han anunciado.</p>
+<p align="Justify"> Internet Explorer ha sido objeto de críticas por su limitado soporte a estándares web abiertos, se dice que un objetivo de 
+mayor importancia de Internet Explorer 9, era mejorar el soporte a las normas ya dichas.</p>
+<li><b>Normas de extensiones</b>
+<p align="Justify"> Acid3 en Internet Explorer 9. Acid3 prueba la compatibilidad con los lenguajes Document Object Model (DOM) y JavaScript, 
+además de SVG y CSS3 (aunque este último no es aún estándar).</p>
+<p align="Justify"> Internet Explorer ha introducido una serie de extensiones propietarias de muchas de las normas, incluyendo HTML, CSS y el DOM. 
+Esto ha dado lugar a una serie de páginas web que solo se pueden ver correctamente con Internet Explorer.</p>
+<p align="Justify"> Internet Explorer ha introducido una serie de prórrogas a JavaScript que han sido adoptadas por otros navegadores. 
+Estas incluyen innerHTML, que devuelve la cadena de hdmi dentro de un elemento, el XML HTTP Request, que permite el envío de la petición HTTP y la 
+recepción de la respuesta HTTP. Algunas de estas funcionalidades no son posibles hasta la introducción de los métodos de DOM inducidos por W3C.</p>
+<p align="Justify"> Otras normas que prevé Microsoft son: soporte vertical de texto, pero en una sintaxis diferente a la recomendación de la W3C; 
+soporte para una variedad de efectos de imagen y apoyo al código de secuencia de comandos, en particular JScript Encode. También se prevé soporte a la 
+incrustación de tipos de letra EOT en páginas web.</p>
+<li><b>Usabilidad y accesibilidad</b>
+<p align="Justify"> Internet Explorer hace uso de la accesibilidad prevista en Windows. Internet Explorer también es una interfaz de usuario de FTP, 
+con operaciones similares a las del Explorador de Windows (aunque esta característica requiere una ventana que se abre en las últimas versiones del 
+navegador, en lugar de forma nativa en el navegador). Las versiones recientes bloquean las ventanas emergentes e incluyen navegación por pestañas. 
+La navegación con pestañas también puede ser añadida a las versiones anteriores mediante la instalación de las diferentes barras de herramientas, 
+proporcionadas por los principales motores de búsqueda en internet.</p>
+<li><b>Cache</b>
+<p align="Justify"> Internet Explorer guarda archivos temporales de Internet para permitir un acceso más rápido (o el acceso fuera de línea) a 
+páginas visitadas anteriormente. El contenido está indexado en un archivo de base de datos, conocido como Index.dat. Los archivos múltiples que 
+existen son diferentes índices de contenido, contenido visitado, RSS, Autocompletar, páginas web visitadas, las cookies, etc.</p>
+<p align="Justify"> Antes de IE7, la limpieza de la caché se utilizaba para borrar el índice, pero los archivos no eran eliminados. 
+Esta característica era un riesgo potencial para la seguridad tanto para los individuos como para las empresas. A partir de Internet Explorer 7, 
+tanto el índice de entradas de los archivos como ellos mismos se eliminan de la memoria caché cuando se borra.</p>
+<li><b>Politicas de grupo</b>
+<p align="Justify"> Internet Explorer es totalmente configurable mediante directiva de grupo. Los administradores de dominios Windows Server pueden 
+aplicar y hacer cumplir una serie de ajustes que afectan a la interfaz de usuario (por ejemplo, deshabilitar elementos de menú y las opciones de 
+configuración individual), así como las características de seguridad tales como la descarga de archivos, la configuración de la zona, por configuración 
+del sitio, comportamiento de control ActiveX, y otros. La configuración puede ser establecida para cada usuario y para cada máquina. 
+Internet Explorer también soporta autenticación integrada de Windows.</p>
+</ul>
+</blockquote>
+<a herf="#Principal"><p align="right">Regresar</p></a>
+
+<!--Firefox-->
+<a name="Firefox">
+<font color="blue"><acronym title="Navegador para busqueda rapida"><h3>5.- MOZILLA FIREFOX</h3></acronym></font>
+<blockquote>
+<img src="firefox.jpg" align="left">
+<p align="Justify"> Mozilla Firefox es un navegador web libre y de código abierto desarrollado para Microsoft Windows, Mac OS X y GNU/Linux 
+coordinado por la coorpoacion Mozilla y la Fundacion Mozilla.</p>
+<p align="Justify"> Usa el motor Gecko para renderizar páginas web, el cual implementa actuales y futuros estandares web. A partir de agosto de 2012 Firefox tiene
+aproximadamente un 23% de la cuota de mercado, convirtiendose en el tercer navegador web mas usado, con particular exito en Indonesia, Alemania y Polonia, donde
+es el mas popular con un 65%, 47% de uso, respectivamente.</p>
+<fieldset style="border:6px groove #ccc; background:#F8ECE0;">
+   <legend><i><b><font color="red" size="3">Importante</font></legend></b></i>
+   Mozilla Firefox esta en el numero 2 de la lista de mas descargas de navegadores WEB en Softonic.</p>
+</fieldset>
+<b><u>Caracteristicas</u></b><br>
+<ul>
+<li><b>Intefaz</b>
+<p align="Justify"> Mozilla se ha planteado un proyecto para el rediseño de la interfaz: el proyecto ha sido llamado "Australis"; en él toma un 
+diseño similar al de Google Chrome, con pestañas “redondeadas”; la forma en la que están acomodados los iconos se puede personalizar haciendo clic 
+en el botón customize.</p>
+<p align="Justify"> El lanzamiento de la nueva interfaz ha sido postergado varias veces pero, segun indicanm deberia de estar listo para la version de 
+Firefox(en marzo.</p>
+<li><b>Estandares Web</b>
+<p align="Justify"> Resultado de la prueba Acid3 en Firefox 4. Acid3 prueba la compatibilidad con estandares web como los lnguajes Document Object Model(DOM)
+y JavaScript, ademas de SVG y CSS3.
+<p align="Justify"> Es compatible con varios lenguajes web, incluyendo HTML, XML, XHTML, SGV 1.1(parcial), CSS 1, 2 y 3,ECMA Script (JavaScript), DOM, 
+MathML, DTD, XSLT, XPath, e imágenes PNG con transparencia alfa. También incorpora las normas propuestas por el WHATWG,y es compatible 
+con el elemento HTML Canvas.
+<p align="Justify"> En cuestion de cumplimiento de estandares web, pasa satisfactoriamente la prueba de Acis2 a partir de la version 3.0. 
+Sin embargo, las ramas de versiones 3.x no pasaban completamente la prueba de Acid3, pues obtienen un puntaje de 93/100 en Firefox 3.5 y 
+un puntaje de 94/100 en la version 3.6. Desde Mozilla se hicieron declaraciones en la que enfatizaban que su objetivo no era el que Firefox aprobara Acid3 
+totalmente, ya que creían que las partes de la prueba concernientes al estándar de tipografías SVG eran "obsoletas e irrelevantes" debido a que la 
+nueva especificación propuesta WOFF también era ampliamente acogida por otros de los desarrolladores de navegadores más importantes.​ 
+Ya que las pruebas de tipografías SVG fueron eliminadas de Acid3 en septiembre de 2011, Firefox 4 y versiones más recientes, 
+obtienen un puntaje de 100/100.</p>
+<li><b>Seguridad</b>
+<p align="Justify"> Implementa el sistema SSL/TLS para proteger la comunicación con los servidores web, utilizando fuerte criptografía cuando se utiliza 
+el protocolo https.41​ También soporta tarjetas inteligentes para fines de autenticación.42​ Cuenta con una protección antiphishing, 
+antimalware e integración con el antivirus.43​También y como medida prudencial que ha causado controversia, no incluye compatibilidad con los 
+sistemas ActiveX,44​ debido a la decisión de la Fundación Mozilla de no incluirlo por tener vulnerabilidades de seguridad.</p>
+<li><b>Localizaciones</b>
+<p align="Justify"> Es el navegador web más localizado hasta la fecha, cubriendo el 97 % de la población con conexión a internet. 
+El primer lanzamiento oficial en noviembre de 2011 fue distribuido en 28 diferentes idiomas, incluyendo inglés británico/inglés estadounidense,
+Español europeo/Español latino y chino en caracteres chinos tradicionales/caracteres chinos simplificados. Las versiones actuales con 
+soporte 10.0.7 y 15.0.1 están disponibles para 85 variantes regionales (77 idiomas) y 83 variantes regionales (74 idiomas),​ respectivamente.</p>
+</ul>
+</blockquote>
+<a herf="#Principal"><p align="right">Regresar</p></a>
+</font>
+</body>
+</html>
+
+
+
+
+
+
+
+
